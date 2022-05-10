@@ -1,6 +1,6 @@
 <template>
   <div>
-      <p class="title">推荐歌单</p>
+      <p class="title">推荐歌单123</p>
       <van-row gutter="6">
         <van-col span="8" v-for="obj in reList" :key="obj.id">
           <van-image
